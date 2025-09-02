@@ -340,6 +340,11 @@ a {
     z-index: 100;
   }
 
+  .book-btn {
+
+  padding: 15px 10px;
+}
+
   .nav-links.active {
     top: 0;
   }
